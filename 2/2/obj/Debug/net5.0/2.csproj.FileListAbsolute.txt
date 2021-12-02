@@ -1,0 +1,16 @@
+B:\CodeStuff\C#\Advent\2\2\bin\Debug\net5.0\2.exe
+B:\CodeStuff\C#\Advent\2\2\bin\Debug\net5.0\2.deps.json
+B:\CodeStuff\C#\Advent\2\2\bin\Debug\net5.0\2.runtimeconfig.json
+B:\CodeStuff\C#\Advent\2\2\bin\Debug\net5.0\2.runtimeconfig.dev.json
+B:\CodeStuff\C#\Advent\2\2\bin\Debug\net5.0\2.dll
+B:\CodeStuff\C#\Advent\2\2\bin\Debug\net5.0\ref\2.dll
+B:\CodeStuff\C#\Advent\2\2\bin\Debug\net5.0\2.pdb
+B:\CodeStuff\C#\Advent\2\2\obj\Debug\net5.0\2.csproj.AssemblyReference.cache
+B:\CodeStuff\C#\Advent\2\2\obj\Debug\net5.0\2.GeneratedMSBuildEditorConfig.editorconfig
+B:\CodeStuff\C#\Advent\2\2\obj\Debug\net5.0\2.AssemblyInfoInputs.cache
+B:\CodeStuff\C#\Advent\2\2\obj\Debug\net5.0\2.AssemblyInfo.cs
+B:\CodeStuff\C#\Advent\2\2\obj\Debug\net5.0\2.csproj.CoreCompileInputs.cache
+B:\CodeStuff\C#\Advent\2\2\obj\Debug\net5.0\2.dll
+B:\CodeStuff\C#\Advent\2\2\obj\Debug\net5.0\ref\2.dll
+B:\CodeStuff\C#\Advent\2\2\obj\Debug\net5.0\2.pdb
+B:\CodeStuff\C#\Advent\2\2\obj\Debug\net5.0\2.genruntimeconfig.cache

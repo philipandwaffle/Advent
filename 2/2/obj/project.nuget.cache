@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SvsxpZ2YSraxGh/JFvpjJIYw91SeXgBKkEQj5P6fU1l8dfCIbGrKZgx/KVuCe9qB2XLZeRdhsuXE0svBsrD+7A==",
+  "success": true,
+  "projectFilePath": "B:\\CodeStuff\\C#\\Advent\\2\\2\\2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\philipandwaffle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\philipandwaffle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\philipandwaffle\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\philipandwaffle\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.12\\microsoft.netcore.app.host.win-x86.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

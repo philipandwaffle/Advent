@@ -1,0 +1,16 @@
+B:\CodeStuff\C#\Advent\Apps\Apps\bin\Debug\net5.0\Apps.exe
+B:\CodeStuff\C#\Advent\Apps\Apps\bin\Debug\net5.0\Apps.deps.json
+B:\CodeStuff\C#\Advent\Apps\Apps\bin\Debug\net5.0\Apps.runtimeconfig.json
+B:\CodeStuff\C#\Advent\Apps\Apps\bin\Debug\net5.0\Apps.runtimeconfig.dev.json
+B:\CodeStuff\C#\Advent\Apps\Apps\bin\Debug\net5.0\Apps.dll
+B:\CodeStuff\C#\Advent\Apps\Apps\bin\Debug\net5.0\ref\Apps.dll
+B:\CodeStuff\C#\Advent\Apps\Apps\bin\Debug\net5.0\Apps.pdb
+B:\CodeStuff\C#\Advent\Apps\Apps\obj\Debug\net5.0\Apps.csproj.AssemblyReference.cache
+B:\CodeStuff\C#\Advent\Apps\Apps\obj\Debug\net5.0\Apps.GeneratedMSBuildEditorConfig.editorconfig
+B:\CodeStuff\C#\Advent\Apps\Apps\obj\Debug\net5.0\Apps.AssemblyInfoInputs.cache
+B:\CodeStuff\C#\Advent\Apps\Apps\obj\Debug\net5.0\Apps.AssemblyInfo.cs
+B:\CodeStuff\C#\Advent\Apps\Apps\obj\Debug\net5.0\Apps.csproj.CoreCompileInputs.cache
+B:\CodeStuff\C#\Advent\Apps\Apps\obj\Debug\net5.0\Apps.dll
+B:\CodeStuff\C#\Advent\Apps\Apps\obj\Debug\net5.0\ref\Apps.dll
+B:\CodeStuff\C#\Advent\Apps\Apps\obj\Debug\net5.0\Apps.pdb
+B:\CodeStuff\C#\Advent\Apps\Apps\obj\Debug\net5.0\Apps.genruntimeconfig.cache

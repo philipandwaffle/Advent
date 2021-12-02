@@ -1,0 +1,16 @@
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\bin\Debug\net5.0\Totaler.exe
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\bin\Debug\net5.0\Totaler.deps.json
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\bin\Debug\net5.0\Totaler.runtimeconfig.json
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\bin\Debug\net5.0\Totaler.runtimeconfig.dev.json
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\bin\Debug\net5.0\Totaler.dll
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\bin\Debug\net5.0\ref\Totaler.dll
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\bin\Debug\net5.0\Totaler.pdb
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\obj\Debug\net5.0\Totaler.csproj.AssemblyReference.cache
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\obj\Debug\net5.0\Totaler.GeneratedMSBuildEditorConfig.editorconfig
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\obj\Debug\net5.0\Totaler.AssemblyInfoInputs.cache
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\obj\Debug\net5.0\Totaler.AssemblyInfo.cs
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\obj\Debug\net5.0\Totaler.csproj.CoreCompileInputs.cache
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\obj\Debug\net5.0\Totaler.dll
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\obj\Debug\net5.0\ref\Totaler.dll
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\obj\Debug\net5.0\Totaler.pdb
+B:\CodeStuff\C#\Advent\1\Totaler\Totaler\obj\Debug\net5.0\Totaler.genruntimeconfig.cache
